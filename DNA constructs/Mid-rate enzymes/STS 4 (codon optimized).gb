@@ -1,0 +1,54 @@
+LOCUS       STS_[4]_(codon_optimize 1209 bp ds-DNA     linear       05-AUG-2020
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    complement(1198..1203)
+                     /label="BsaI"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    complement(1193..1196)
+                     /label="C"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     misc_feature    11..14
+                     /label="B"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     misc_feature    14..1192
+                     /label="STS"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    4..9
+                     /label="BsaI"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     misc_feature    complement(1193..1203)
+                     /label="BsaI (C)"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    4..14
+                     /label="BsaI (B)"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+ORIGIN
+        1 ttaggtctca catATGGCGT CCGTTGAAGA ATTCCGCAAC GCCCAGAGGG CAAAAGGGCC
+       61 TGCAACCATT CTGGCAATTG GGACCGCGAC TCCCGACCAT TGTGTGTATC AGAGTGATTA
+      121 TGCGGATTAC TATTTTCGTG TGACCAAGAG CGAACACATG ACCGAGTTGA AAAAAAAATT
+      181 CAACCGTATT TGTGATAAAT CAATGATTAA AAAACGTTAT ATCCATCTGA CTGAGGAAAT
+      241 GCTGGAGGAA CATCCGAACA TCGGTGCTTA CATGGCTCCG AGCTTGAACA TCCGGCAAGA
+      301 AATCATCACG GCGGAAGTAC CTCGTCTGGG CCGAGATGCA GCCCTTAAAG CGTTAAAAGA
+      361 ATGGGGTCAG CCAAAATCGA AAATTACGCA CCTCGTCTTC TGCACAACGT CTGGTGTCGA
+      421 AATGCCAGGC GCAGATTATA AACTGGCGAA TCTGTTGGGT CTAGAAACAA GCGTACGCCG
+      481 GGTGATGCTC TACCATCAGG GTTGCTATGC GGGGGGCACG GTGCTTCGTA CGGCGAAAGA
+      541 CTTAGCCGAA AACAATGCGG GTGCGCGCGT TCTGGTTGTT TGCTCCGAGA TTACCGTGGT
+      601 AACCTTTCGC GGCCCGTCCG AGGATGCACT GGATAGCCTG GTGGGCCAAG CGCTCTTTGG
+      661 CGATGGCTCT TCGGCAGTTA TTGTAGGTAG CGACCCGGAC GTCAGTATTG AACGCCCGTT
+      721 ATTCCAGCTG GTGAGCGCCG CCCAGACGTT TATCCCGAAT TCGGCCGGTG CGATCGCCGG
+      781 TAATCTGCGC GAAGTTGGTC TGACTTTTCA TCTGTGGCCA AATGTTCCAA CTCTGATATC
+      841 AGAAAACATC GAAAAGTGTC TGACCCAAGC TTTTGACCCG CTTGGCATTT CTGATTGGAA
+      901 CAGCCTTTTT TGGATTGCCC ATCCCGGCGG CCCGGCAATA CTCGATGCTG TGGAGGCTAA
+      961 GCTTAACCTG GAGAAGAAGA AATTAGAAGC CACAAGACAC GTCCTGTCCG AATACGGGAA
+     1021 TATGTCGAGT GCTTGCGTGC TATTCATCCT GGATGAGATG CGTAAGAAAA GTTTGAAAGG
+     1081 AGAAAAAGCC ACCACCGGAG AAGGCTTGGA CTGGGGAGTG CTGTTCGGGT TTGGACCTGG
+     1141 CCTGACGATT GAGACAGTCG TGTTACACTC AGTACCGCCG GTCACCAATT AATCGATGAG
+     1201 ACCCGTGCA
+//
