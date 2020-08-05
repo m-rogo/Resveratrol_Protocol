@@ -1,1 +1,2 @@
-
+File contains sequences for high-rate, mid-rate and low-rate resveratrol producing enzymes. Constructs have been codon optimised for expression in E. coli and designed to be compatible with an EcoFlex MoClo kit (https://www.addgene.org/kits/freemont-ecoflex-moclo/#kit-details). 
+The assembly wizard was used to assess assembly of parts into a pTU1-A-lacZ destination vector, with a T7, PET-RBS, His6 promoter and BBa_B0015 terminator for high expression and purification.
